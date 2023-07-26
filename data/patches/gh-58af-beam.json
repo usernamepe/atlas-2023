@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Beam ",
+	"description": "Beam_o1 es un Streamer pequeño que transmite en la plataforma de Twitch de nacionalidad peruana, que con solo pocas personas logró poner su skin de Minecraft, lo puedes encontrar en Twitch como beam_o1.",
+	"links": {
+		"website": [
+			"https://Twitch.tv/beam_o1"
+		],
+		"discord": [
+			"EzSrQf2vX5"
+		]
+	},
+	"path": {
+		"234": [
+			[
+				-573,
+				-909
+			],
+			[
+				-573,
+				-899
+			],
+			[
+				-563,
+				-899
+			],
+			[
+				-563,
+				-909
+			],
+			[
+				-573,
+				-909
+			]
+		]
+	},
+	"center": {
+		"234": [
+			-568,
+			-904
+		]
+	}
+}
